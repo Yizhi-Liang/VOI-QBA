@@ -1,0 +1,8 @@
+00_submission
+01_data
+03_output
+04_docs
+.venv/
+renv/library/
+__pycache__/
+.DS_Store
