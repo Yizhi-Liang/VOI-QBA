@@ -1,0 +1,9 @@
+[project]
+name = "04-voi-rwe"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "lets-plot>=4.10.1",
+    "numpy>=2.5.0",
+    "pandas>=3.0.3",
+]
